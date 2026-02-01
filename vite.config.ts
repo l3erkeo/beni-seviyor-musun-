@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/ben,-seviyor-musun-/",
+  base: "/beni-seviyor-musun-/",
   plugins: [react()],
 });
