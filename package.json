@@ -1,6 +1,11 @@
 {
-  "name": "will-you-be-my-valentine",
-  "homepage": "https://saurabhnemade.github.io/will-you-be-my-valentine",
+
+  "scripts": {
+     "dev": "vite",
+    "build": "vite build",
+     "preview": "vite preview",
+  "name": "beni-seviyor-musun",
+  "homepage": "https://l3erkeo.github.io/beni-seviyor-musun-",
   "private": true,
   "version": "0.0.1",
   "type": "module",
